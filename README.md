@@ -1,16 +1,11 @@
-### Hi there 👋
+# Свяжись со мной :point_down:
+- Telegram - https://t.me/Ilin_Sl
+- Mail - i.slava-a@yandex.ru
 
-<!--
-**s1i1/s1i1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Pet-проекты
+- Comforty - https://comforty.vercel.app/ | https://s1i1.github.io/comforty/
+- Pizza - https://s1i1.github.io/react-pizza/
+- Sneakers - https://s1i1.github.io/react-sneakers/
+- Irvas - https://s1i1.github.io/irvas/
+- Grid - https://s1i1.github.io/grid/
+- Relvise - https://s1i1.github.io/relvise/
